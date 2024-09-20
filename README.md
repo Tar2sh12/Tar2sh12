@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Tarek</h1>
-<h3 align="center">🚀 a passionate Node.js Developer from Egypt && Backend Software Engineer with a knack for tackling complex problems and creating efficient solutions. </h3>
+<h3 align="center">🚀 a passionate Backend Software Engineer (Node.js) with a knack for tackling complex problems and creating efficient solutions. </h3>
 - I’m currently in my 4th year of studying Computer Science at Helwan University, with a major in *Software Engineering*.
 
 - 🔭 I’m currently working on [E-commerce System](https://github.com/Tar2sh12/E-Commerce)
