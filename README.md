@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 🤝 I’m Open for: **An Intern OR New Job Opportunity**
+- 🤝 I’m Open for: **New Job Opportunity**
 
 - 👨‍💻 All of my projects are available at [https://main--mohamedtarekportfolio.netlify.app/](https://main--mohamedtarekportfolio.netlify.app/)
 
