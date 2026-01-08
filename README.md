@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Tarek</h1>
 <h3 align="center">🚀 a passionate Backend Software Engineer (Node.js) with a knack for tackling complex problems and creating efficient solutions. </h3>
-- I’m currently in my 4th year of studying Computer Science at Helwan University, with a major in *Software Engineering*.
+- 🎓 Bachelor of Computer Science *Software Engineering* — Helwan University
+*GPA: 3.87*
 
 - 🔭 I’m currently working on [E-commerce System](https://github.com/Tar2sh12/E-Commerce)
 
