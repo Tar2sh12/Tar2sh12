@@ -4,7 +4,7 @@
 - 🎓 Bachelor of Computer Science **Software Engineering** — Helwan University
 *GPA: 3.87*
 
-- 🔭 I’m currently working on [E-commerce System](https://github.com/Tar2sh12/E-Commerce)
+- 🔭 I’m currently working on [E-commerce System](https://github.com/Tar2sh12/NEW-ECOMM-NEST)
 
 - 🌱 I’m currently learning **Node.js**
 
