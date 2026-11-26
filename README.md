@@ -10,8 +10,6 @@
 
 - 🤝 I’m Open for: **New Job Opportunity**
 
-- 👨‍💻 All of my projects are available at [https://main--mohamedtarekportfolio.netlify.app/](https://main--mohamedtarekportfolio.netlify.app/)
-
 - ⚡Always *Learning New Things*
 
 - 📫 How to reach me **mohamad.t.salah@gmail.com**
